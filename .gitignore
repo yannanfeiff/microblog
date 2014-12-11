@@ -1,0 +1,13 @@
+.settings/
+target/
+.project
+.classpath
+.mymetadata
+.idea/
+node_modules/
+*.iml
+rebel.xml
+*.pdb
+*/test
+.Ds_Store
+.gitignore%
